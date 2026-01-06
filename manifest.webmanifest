@@ -1,0 +1,12 @@
+{
+  "name": "佳南美地 × 古坑慢活之旅",
+  "short_name": "佳南美地",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    { "src": "./icons/icon-1024.png?v=3", "sizes": "1024x1024", "type": "image/png" }
+  ]
+}
+
